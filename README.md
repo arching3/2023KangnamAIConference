@@ -1,2 +1,3 @@
 # 2023AIConference
-Kangnam AI Conference
+## Kangnam Artificial Intelligence Convergence Department Conference
+Due to 23.11.28
